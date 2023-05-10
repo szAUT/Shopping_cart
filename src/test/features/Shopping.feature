@@ -27,3 +27,4 @@ Scenario: User can login
     And I fill in my shipping details
     When I click on the complete purchase button
     Then I should see a confirmation message
+
